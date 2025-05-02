@@ -12,7 +12,7 @@ This project explores the power of AI agents by automating the process of resear
 - **Pre-Call Report:** Merges both summaries into a concise report for sales call preparation.
 
 ## Tools Used
-- [Relevance AI](https://relevance.ai/) (No-code AI agent builder)
+- [Relevance AI](https://relevance.ai/) (AI agent builder)
 - [Firecrawl](https://firecrawl.dev/) (Web scraping tool)
 
 ## Workflow
