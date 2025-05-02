@@ -30,5 +30,3 @@ This project explores the power of AI agents by automating the process of resear
 3. Input the LinkedIn and company URLs when prompted.
 4. Run the agent to generate your pre-call report.
 
-## License
-For personal or educational use only.
