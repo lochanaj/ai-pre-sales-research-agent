@@ -36,6 +36,9 @@ This repository includes the exported `.rai` agent file, which contains the comp
     - The agent scrapes and summarizes the company website.
 3. **Output:** The agent generates a pre-call report that combines both summaries.
 
+## Try out the AI Agent for yourself!
+https://app.relevanceai.com/agents/bcbe5a/09dfa539c1e5-400b-8713-deb82ea3337b/0cfe19bc-e4e0-4fab-bfb1-96d8b4eab455/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
+
 ## How to Use
 1. Sign up for Relevance AI and Firecrawl.
 2. Import the agent using the provided `.rai` file as described above.
