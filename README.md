@@ -1,7 +1,7 @@
 # ai-pre-sales-research-agent
 Automated pre-call research tool that creates actionable insights from LinkedIn and company websites using AI agents
 
-# No-Code AI Agent for Sales Pre-Call Research
+# AI Agent for Sales Pre-Call Research
 
 ## Overview
 This project explores the power of no-code AI agents by automating the process of researching prospects and companies. Built with Relevance AI, the agent combines insights from LinkedIn profiles and company websites into a single, actionable pre-call report-helping sales reps prepare more effectively for client calls.
